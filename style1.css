@@ -94,6 +94,13 @@ body {
     padding: 10px;
     border-radius: 4px;
   }
+  .Me {
+    background-color: #2980b9;
+    border: 4px #ecf0f1;
+    border-radius: 10px;
+    color: white;
+
+  }
 
   /* Links Section */
   .links {
